@@ -1,0 +1,1 @@
+C:\Users\DELL\Documents\t.harunaCSC101\project-2\target\debug\project-2.exe: C:\Users\DELL\Documents\t.harunaCSC101\project-2\src\main.rs
