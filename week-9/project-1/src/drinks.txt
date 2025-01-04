@@ -1,0 +1,17 @@
+
+Stout:
+Legend
+Tubo King
+Williams
+Lager:
+33 Export
+Desperados
+Goldberg
+Heineken
+Star
+
+Non-Alcoholic:
+Maltina
+Amstel Malta
+Malta Gold
+Fayrouz
